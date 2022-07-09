@@ -1,5 +1,7 @@
-#Bitter Numbers
+# Bitter Numbers
 
 Bitter numbers is number generator.
 
-Made with HTML, CSS & JQuery.
+[Demo](https://www.example.com)
+
+**Made with HTML, CSS & JQuery.**
