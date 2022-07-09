@@ -2,6 +2,6 @@
 
 Bitter numbers is number generator.
 
-[Demo](https://www.example.com)
+[Demo](https://ousmanized.github.io/Bitter-Numbers)
 
 **Made with HTML, CSS & JQuery.**
